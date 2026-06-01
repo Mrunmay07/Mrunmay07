@@ -80,6 +80,8 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="40" alt="redis logo"  />
  
   <img src="https://img.shields.io/badge/Apache Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" height="40" alt="apachekafka logo"  />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="shadcn/ui">
+<img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Chakra UI">
 
   <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="40" alt="nginx logo"  />
 </div>
