@@ -48,8 +48,14 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
 
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="shadcn/ui">
+<img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Chakra UI">
 
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Appwrite">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Supabase">
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="TanStack Query">
+<img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Zustand">
 
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
  
@@ -149,10 +155,39 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="40" alt="jest logo"  />
-  
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Vitest">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Postman">
+  <img src="https://img.shields.io/badge/Thunder_Client-8B5CF6?style=for-the-badge" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Thunder Client">
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=black&style=for-the-badge" height="40" alt="selenium logo"  />
 </div>
 
+###
+
+<h3 align="left">Tools and Technologies</h3>
+
+###
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="GitHub">
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Vim">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="VS Code">
+<img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Sublime Text">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="npm">
+<img src="https://img.shields.io/badge/pip-3775A9?style=for-the-badge&logo=pypi&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="pip">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Bash">
+</div>
+
+###
+<h3 align="left">Design and creative tools</h3>
+###
+<div align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Figma">
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Adobe Illustrator">
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Adobe Photoshop">
+<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Adobe After Effects">
+<img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Adobe XD">
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Blender">
+</div>
 ###
 
 <div>
