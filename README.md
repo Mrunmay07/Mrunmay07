@@ -112,6 +112,13 @@
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="LangChain">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="LangGraph">
+<img src="https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge&logo=probot&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="AI Agents">
+<img src="https://img.shields.io/badge/RAG-F59E0B?style=for-the-badge&logo=googledocs&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="RAG">
+<img src="https://img.shields.io/badge/Vector_Databases-10B981?style=for-the-badge&logo=weaviate&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Vector Databases">
+<img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="MCP">
 </div>
 
 ###
