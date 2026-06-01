@@ -227,12 +227,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mrunmay07.Mrunmay07&left_text=Profile%20Views"  />
 </div>
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/MrUnMaY">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=MrUnMaY&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
