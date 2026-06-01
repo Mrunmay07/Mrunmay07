@@ -178,8 +178,11 @@
 </div>
 
 ###
+
 <h3 align="left">Design and creative tools</h3>
+
 ###
+
 <div align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Figma">
 <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Adobe Illustrator">
@@ -188,6 +191,7 @@
 <img src="https://img.shields.io/badge/Adobe_XD-470137?style=for-the-badge&logo=adobexd&logoColor=FF61F6" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Adobe XD">
 <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" height="40" style="margin-right: 12px; margin-bottom: 12px;" alt="Blender">
 </div>
+
 ###
 
 <div>
